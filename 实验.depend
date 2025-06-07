@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1733368471 source:c:\users\ljyl0\desktop\大实验\实验\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<string.h>
+
